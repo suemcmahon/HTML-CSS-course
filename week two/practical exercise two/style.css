@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+  background-color: #ececec;
+}
+
+/* Headings */
+
+h1,
+h2 {
+  text-transform: uppercase;
+  color: #39af99;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+/* Paragraph */
+
+p {
+  color; #444;
+}

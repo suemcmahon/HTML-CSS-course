@@ -1,4 +1,4 @@
-# An introduction to HTML & CSS for beginners
+# An introduction to HTML & CSS
 
 ## Table of Contents
 

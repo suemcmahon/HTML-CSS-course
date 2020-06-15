@@ -208,7 +208,11 @@ You have created your first styled webpage!
 
 ### Resources
 
-This was just a short intro to HTML & CSS. There are lots of free resources out there that can help you build on what you have learnt and hopefully inspire you to build some amazing projects in the future. Or if you are thinking of a career in tech why not have a try!
+This was a short intro to HTML & CSS. 
+
+There are lots of free resources out there that can help you build on what you have learnt and hopefully inspire you to build some amazing projects in the future. 
+
+Or if you are thinking of a career in tech why not have a try and get started with the links below!
 
 [The story of your first website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 

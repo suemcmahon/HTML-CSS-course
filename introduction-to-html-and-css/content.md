@@ -10,9 +10,9 @@
 
 ### Setup
 
-To get started you will need access to a computer with a web browser and a text editor.
+To get started, you will need access to a computer with a web browser and a text editor.
 
-Please follow this step by step guide and you will be well on your way!
+Please follow this step by step guide and you'll be well on your way!
 
 #### Create a folder
 
@@ -22,7 +22,7 @@ We will be using this folder to save our website.
 
 [How to create a new folder on a Windows machine](https://support.microsoft.com/en-us/office/create-a-new-folder-cbbfb6f5-59dd-4e5d-95f6-a12577952e17)
 
-[How to Create a new folder on a Mac](https://www.wikihow.com/Create-Folders-in-Mac)
+[How to create a new folder on a Mac](https://www.wikihow.com/Create-Folders-in-Mac)
 
 #### Download a code editor
 
@@ -30,9 +30,9 @@ Open your usual web browser and visit the [Visual Studio Code website](https://c
 
 Follow the instructions on the website to download for your computer.
 
-Visual Studio Code is lightweight, should run on most computers and is free to download!
+Visual Studio Code is lightweight, should run on most computers and is free to download.
 
-You are now ready to start building your first webpage! 
+You're now ready to start building your first webpage.
 
 ### HTML
 
@@ -53,13 +53,13 @@ Then, enter the following:
   </html>
 ```
 
-This is the HTML element with an attribute called lang. The lang attribute is used to set the document’s language - in this case en for English. The HTML element is the outermost “container” of our web page; everything else (apart from the doctype) is kept within the HTML tags. 
+This is the HTML element with an attribute called lang. The lang attribute is used to set the document’s language - in this case en for English. The HTML element is the outermost “container” of our web page. Everything else (apart from the doctype) is kept within the HTML tags. 
 
 Inside the HTML element, enter the following:
 
 `<head></head>`
 
-There are two major sections inside the HTML element: the head and the body. This is the head element, this contains information about the page, but no information that will be displayed on the page itself. 
+There are two major sections inside the HTML element: the head and the body. This is the head element, this contains information about the page but no information that will be displayed on the page itself. 
 
 Inside the head element, enter the following:
 
@@ -68,7 +68,7 @@ Inside the head element, enter the following:
   <title>My first web page</title>
 ```
 
-In the example above, the meta tag tells the browser which character set to use - specifically, UTF-8, which includes the characters needed for web pages in just about any written language. 
+In the example above, the meta tag tells the browser which character set to use - specifically UTF-8, which includes the characters needed for web pages in just about any written language. 
 
 The title element tells the browser what to display in its title bar.
 
@@ -110,13 +110,13 @@ This is what the final markup should look like inside your code editor:
 
 Save your changes. Right click the index.html in the html-css-ftw folder and open with a web browser, for example Google Chrome. 
 
-You should see your first webpage. It looks very plain at the moment, we'll change this in the next step!
+You should see your first webpage. It looks very plain at the moment, but we'll change this in the next step.
 
 ### CSS
 
 In Visual Studio Code editor create a new file and save it as style.css inside the html-css-ftw folder.
 
-Congrats! You've created your first css file, now you need to link it to the index.html file you created earlier.
+Congrats! You've created your first css file. Now you need to link it to the index.html file you created earlier.
 
 Go to index.html and add the following below the title tag:
 
@@ -177,9 +177,9 @@ body {
 }
 ```
 
-This is changing the background colour of the whole web page and setting the font of the page to the arial typeface, if the arial typeface is not available then 'verdana' will be displayed.
+This is changing the background colour of the whole web page and setting the font of the page to the 'arial' typeface, if the 'arial' typeface is not available then 'verdana' will be displayed.
 
-Open index.html in your web browser and refresh the page, your webpage should now be a different colour.
+Open index.html in your web browser and refresh the page. Your webpage should now be a different colour.
 
 Go to style.css and add the following:
 
@@ -191,7 +191,7 @@ h1 {
 
 This is selecting the h1 heading element on your webpage and setting the colour of it.
 
-Refresh index.html in your web browser, the heading 'Welcome to my first webpage!' should now be a different colour. 
+Refresh index.html in your web browser. The heading 'Welcome to my first webpage!' should now be a different colour. 
 
 Go to style.css and add the following:
 
@@ -202,7 +202,7 @@ p {
 ```
 
 
-Refresh index.html in your web browser, the paragraph elements on your webpage will also be a different colour now! 
+Refresh index.html in your web browser. The paragraph elements on your webpage will also be a different colour now.
 
 You have created your first styled webpage!
 
@@ -212,7 +212,7 @@ This was a short intro to HTML & CSS.
 
 There are lots of free resources out there that can help you build on what you have learnt and hopefully inspire you to build some amazing projects in the future. 
 
-Or if you are thinking of a career in tech why not have a try and get started with the links below!
+Or if you are thinking of a career in tech, why not have a try and get started with the links below?
 
 [The story of your first website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
